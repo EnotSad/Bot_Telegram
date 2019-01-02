@@ -23,7 +23,7 @@ Enot_Sad_Bot - telegram - бот, цель которого облегчить �
 
 Курсы валют евро и доллара
 
-![](https://github.com/Zhanarys27/tapeFilm/blob/master/main2.PNG)
+![](https://github.com/EnotSad/Bot_Telegram/blob/master/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC.png)
 
 
 
